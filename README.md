@@ -12,3 +12,6 @@ we use inception v3 architecture for the image data. The layer after the final c
 ### Training and Results
 The model was trained with a minibatch size of 32 with the ADAM optimizer attempting to minimize the mean absolute error of the output. The best model(model_v2) achieved a MAD of 5.5949 Months on the validation set
 
+The model's loss graphs are available for viewing [here]([url](https://wandb.ai/myname44332211/RSNA-Model-v2/reports/RSNA-Bone-Challenge--Vmlldzo4MjcwMTc5)).
+
+More information about the model is in the presentation.pdf file
