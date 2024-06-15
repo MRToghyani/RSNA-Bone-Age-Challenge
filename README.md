@@ -1,1 +1,1 @@
-# RSNA-Bone-Challenge
+# RSNA Bone Age Prediction Challenge
